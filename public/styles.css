@@ -31,7 +31,7 @@ label {
 .create-button, .apply-button {
     box-sizing: border-box;
     width: 18rem;
-    background: #7042c1;
+    background: linear-gradient(135deg, #7042c1 0%, #f7a1c4 100%);
     color: #fff;
     font-weight: 600;
     font-size: 0.875rem;
