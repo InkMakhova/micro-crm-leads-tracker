@@ -1,14 +1,13 @@
 {
   "name": "micro-crm-leads-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Micro CRM Leads Tracker - A simple CRM application to track leads.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Inna M.",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
