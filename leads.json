@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1762704322714",
+    "name": "James Bond",
+    "email": "james.bond@007.com",
+    "company": "CompanyX",
+    "source": "Source1",
+    "notes": "bla-bla-bla",
+    "status": "Contacted",
+    "createdAt": "2025-11-09T16:05:22.714Z"
+  },
+  {
+    "id": "1762704384299",
+    "name": "Sherlock Holms",
+    "email": "sherly.holms@ggle.com",
+    "company": "CompanyY",
+    "source": "Source2",
+    "notes": "bla-bla-hm",
+    "status": "Qualified",
+    "createdAt": "2025-11-09T16:06:24.299Z"
+  }
+]
