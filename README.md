@@ -67,4 +67,8 @@ You must have **Node.js v18+** installed on your system.
 - Styling: Custom CSS
 
 ## Reflection
-Write 200 to 300 words here on what you built, what you learned, and any next improvements you would make.
+For this project, I built Micro CRM Leads, a lightweight customer relationship management (CRM) application designed to record, filter, and update sales leads. I developed it using Node.js and Express, which offered a clean and efficient way to create RESTful APIs and serve static content. The aim was to implement a simple yet functional full-stack web app demonstrating Create, Read, and Update operations without using a database — instead persisting data in a local JSON file.
+
+During development, I learned how to handle different HTTP methods in Express, including GET, POST, and PATCH, and how middleware like express.json() simplifies request handling and body parsing. On the frontend, I gained practical experience with the client-server model, where vanilla JavaScript uses asynchronous fetch() requests to communicate with the backend. This helped me understand how REST APIs enable smooth data exchange and UI updates without full page reloads.
+
+In the future, I would extend the project by integrating a real database (e.g., MongoDB or PostgreSQL) to handle more data and concurrent users. I would also implement user authentication, sorting, and pagination to improve functionality. For the frontend, I plan to rebuild it using React.js and a design system such as Material UI or Chakra UI for better scalability and visual consistency. I would replace fetch() with Axios for more robust API handling. Finally, I would make the application containerized with Docker, enabling easier deployment, portability, and consistent runtime environments across systems.
